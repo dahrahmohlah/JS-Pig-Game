@@ -12,6 +12,6 @@ JavaScript tutorial project on the Pig game
 [Play the game here](https://dahrahmohlah.github.io/JS-Pig-Game/).
 
 ### TODO list
-- [ ] A player looses his entire score when he rolls two 6 in a row, then next players turn.
+- [X] A player looses his entire score when he rolls two 6 in a row, then next players turn. (branch: doubleSix)
 - [ ] Add input field where players can set winning score, rather than pre-defined score of 100.
 - [ ] Add a second dice to game, player losses current score when one dice rolls a 1.
