@@ -13,5 +13,5 @@ JavaScript tutorial project on the Pig game
 
 ### TODO list
 - [X] A player looses his entire score when he rolls two 6 in a row, then next players turn. (branch: doubleSix)
-- [ ] Add input field where players can set winning score, rather than pre-defined score of 100.
+- [X] Add input field where players can set winning score, rather than pre-defined score of 100. (branch: setWinScore)
 - [ ] Add a second dice to game, player losses current score when one dice rolls a 1.
