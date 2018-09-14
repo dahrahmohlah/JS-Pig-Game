@@ -103,7 +103,7 @@ body {
     font-size: 30px;
 }
 
-button {
+button, .winScore {
     position: absolute;
     width: 200px;
     left: 50%;
@@ -138,6 +138,13 @@ i {
 }
 
 .btn-new { top: 45px;}
+.winScore { 
+    top: 80px;
+    width: 120px;
+    transform: translateX(-50%);
+    outline: none;
+    text-align: center;
+}
 .btn-roll { top: 403px;}
 .btn-hold { top: 467px;}
 
